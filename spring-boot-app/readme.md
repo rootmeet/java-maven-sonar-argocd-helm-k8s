@@ -42,4 +42,4 @@ chown -R sonarqube:sonarqube /home/sonarqube/sonarqube-9.4.0.54424
 cd sonarqube-9.4.0.54424/bin/linux-x86-64/
 ./sonar.sh start
 ``````
-Hurray !! Now you can access the SonarQube Server on http://<ip-address>:9000
+Hurray !! Now you can access the ``SonarQube Server`` on ``http://<ip-address>:9000``
